@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background: #f4f4f9;
+  padding:20px
+}
+h1 {
+  color: darkblue;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+input, label {
+  margin: 8px 0;
+  padding: 8px;
+}
+input[type="submit"] {
+  background: darkblue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+input[type="submit"]:hover {
+  background: navy;
+}
+a{
+    text-decoration:none;
+    color:darkblue;
+}
