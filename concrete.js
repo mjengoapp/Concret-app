@@ -92,10 +92,10 @@ app.post(
                         CONCRETE MIX DATA
                     </h1>
                     <p>
-                        volume:${concreteVolume}]
+                        volume:${concreteVolume}
                     </p>
                     <p>
-                        ratio:${concreteRatio}]
+                        ratio:${concreteRatio}
                     </p>
                     <h2>Materials</h2>
                     <ul>
